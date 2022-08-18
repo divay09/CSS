@@ -1,0 +1,23 @@
+/* * { 
+  padding: 0; 
+  margin: 0; 
+} */ 
+ 
+body { 
+    background: black; 
+    color: white; 
+    font-family: sans-serif; 
+  } 
+   
+  h2 { 
+    text-align: center; 
+    align-items: center; 
+    border: 2px burlywood solid; 
+    text-transform: uppercase; 
+    padding: 20px; 
+  } 
+   
+  p { 
+    border: 2px burlywood solid; 
+    padding: 20px; 
+  } 
